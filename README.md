@@ -62,4 +62,4 @@ updateCounter() receives count and sets the polarity value based on polarity (+/
 * What assertions need to be / should be made?
 
 #### UML
-![UML](https://github.com/dlchambersjr/lab-27)
+![UML](https://github.com/dlchambersjr/lab-27/blob/master/lab-27-uml.jpg)
