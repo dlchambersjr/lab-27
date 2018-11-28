@@ -6,11 +6,8 @@
 * [Sandbox](https://codesandbox.io/s/2opm2k3knn?previewwindow=tests)
 * [repo](https://github.com/dlchambersjr/lab-27-react-testing)
 * [AWS-Manual](http://lab-27-manual.s3-website-us-west-2.amazonaws.com)
-* [AWS-YML](http://lab27reacttesting-lab27yml-159mmwcl6pb2i.s3-website-us-west-2.amazonaws.com)
+* [AWS-YML](http://lab-27-react-testing-lab27yml-13jmjokgfykuj.s3-website-us-east-1.amazonaws.com)
 
-NOTE: The automated bucket process did not seem to work.  I tried it three seperate times, which was time consuming.
-
-### Modules
 #### `index.js`
 ##### Exported Values and Methods
 
